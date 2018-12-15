@@ -2,7 +2,7 @@
 
 ### Build a File Metadata Microservice
 
-Try it on Glitch: https://dashing-porcupine.glitch.me/
+View online: https://dashing-porcupine.glitch.me/
 
 ####    User stories:
 1. I can submit a form that includes a file upload.
